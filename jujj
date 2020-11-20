@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+  <meta content="charset=windows-1251">
+  <title>Документи</title>
+  </head>
+  <body bgcolor=aqua text=black>
+  <table cellpadding="15" cellspacing="6">
+  <tr>
+  <TD>&nbsp;</TD>
+  <td valing="top"></td>
+  <td valing="top">
+  Осінь-у барвистому намисті<br>
+  Як циганка - з бубоном в руці.<br>
+  Поцілунок - чистий і вогнистий<br>
+  на моїй зоставила щоці.
+  </td>
+  <td valing="top">
+  Осінь-у барвистому намисті<br>
+  Як циганка - з бубоном в руці.<br>
+  Поцілунок - чистий і вогнистий<br>
+  на моїй зоставила щоці.
+  <p aling=right><font size="2"><em>&quot;
+  Євген Гуцало &quot;</em></font></p> 
+  </td>
+  </tr>
+  </table>
+     </body>
+     </html>
